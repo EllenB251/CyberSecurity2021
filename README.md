@@ -227,7 +227,7 @@ The elk-install.yml playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-![Docker Success](docker_ps_output.png)
+![Docker Success](https://github.com/EllenB251/CyberSecurity2021/blob/e7507e71256ddcc1622128ff98e74c9c2804cc01/Diagrams/docker_ps_success.png)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
