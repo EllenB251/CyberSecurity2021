@@ -178,7 +178,7 @@ Load balancing ensures that the application will be highly available, in additio
 - The Jump Box server adds the advantage of further limitng the attack surface and providing a easy vatage point for monitoring suspicious connections by ensuring traffic to the cloud network is filtered through a single virtual machine.
 
 Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the configuration and system files.
-- Filebeat is used to capture and send log files from the VMs in which it is installed to a remote diting system
+- Filebeat is used to capture and send log files from the VMs in which it is installed to a remote editing system
 -  Metricbeat collects and sends service and operating system statistics from these monitored VMs to the auditing server.
 
 The configuration details of each machine may be found below.
