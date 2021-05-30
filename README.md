@@ -211,7 +211,7 @@ A summary of the access policies in place can be found in the table below.
 | Web-3     | No (HTTP from Home ONLY) | 10.0.0.4 / Home IP for DVWA HTTP    |
 | ELKServer | No (but has Public IP)   | 10.0.0.4 / Home IP for ELK APP HTTP |
 
-### Elk Configuration
+### ELK Configuration
 
 Ansible was used to automate configuration of the ELK machine. No configuration was performed manually, which is advantageous because:
 - By automating the build and deployment stages of configuration , it is guaranteed to be performed automatically, consistently, and with speed, simplifying repetitive, complex, and often tedious tasks. Given its automatiion, it can also facilitate OS and software updates, and apply scripted security measures across the board.
