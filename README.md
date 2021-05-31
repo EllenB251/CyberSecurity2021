@@ -2,7 +2,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-![Project-1](https://github.com/EllenB251/CyberSecurity2021/blob/ac35fa0342f4e8bc4a526db4b98dcb1a4b784cc2/Diagrams/Ellen%20Brookes%20Project-1.png)
+![Project-1](https://github.com/EllenB251/CyberSecurity2021/blob/e4fdcc63215d901efd06e47af8984561838d1095/Images/Ellen%20Brookes%20Project-1.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above, or, alternatively, select portions of the playbook YAML may be used to install only certain pieces of it, such as filebeat.
 
@@ -225,7 +225,7 @@ The elk-install.yml playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-![Docker Success](https://github.com/EllenB251/CyberSecurity2021/blob/e7507e71256ddcc1622128ff98e74c9c2804cc01/Diagrams/docker_ps_success.png)
+![Docker Success](https://github.com/EllenB251/CyberSecurity2021/blob/e4fdcc63215d901efd06e47af8984561838d1095/Images/docker_ps_output.png)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
